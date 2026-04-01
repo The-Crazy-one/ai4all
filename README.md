@@ -31,8 +31,9 @@ Praktische Anwendung der SKP-Methode auf reale Infrastruktur-Probleme.
 
 **Alle Projekte hier folgen dem Geist der Open Source Hardware.**
 
-**Keine Patente:** Die Pläne sind frei für alle.  
-**Lizenz:** [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
+- *Keine Patente:* Die Pläne sind frei für alle.
+
+*Lizenz:* [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
 
 ---
 
