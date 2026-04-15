@@ -1,4 +1,4 @@
-# ai4all
+# open-skp
 
 **Mission:** *KI-Steuerung für Laien und Experten.*  
 
